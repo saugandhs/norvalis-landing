@@ -259,7 +259,8 @@ a {
 
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    position: relative;
 
     border-radius: 10px;
 
@@ -295,6 +296,8 @@ a {
 .arrow {
     font-size: 27px;
     font-weight: 300;
+    position: absolute;
+    right:32px;
 
     transition: transform 0.25s ease;
 }
@@ -671,6 +674,12 @@ a {
 
         font-size: 14px;
     }
+
+
+    .cta-arrow {
+        right: 28px;
+    }
+
 
 
     /* -------------------------
