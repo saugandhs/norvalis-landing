@@ -108,7 +108,7 @@ a {
 .hero {
     position: relative;
 
-    min-height: 555px;
+    min-height: 485px;
 
     display: flex;
     align-items: center;
@@ -125,7 +125,7 @@ a {
 
     text-align: center;
 
-    padding: 55px 20px 45px;
+    padding: 40px 20px 30px;
 }
 
 
