@@ -588,7 +588,7 @@ a {
 
         align-items: flex-start;
 
-        overflow: visible;
+        overflow: hidden;
     }
 
     .hero-content {
