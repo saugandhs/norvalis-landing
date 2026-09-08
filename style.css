@@ -778,3 +778,19 @@ a {
         transition-duration: 0.01ms !important;
     }
 }
+
+/* =========================================================
+   FINAL DESKTOP VIEWPORT TUNING
+   ========================================================= */
+
+@media (min-width: 1200px) {
+
+    .hero {
+        min-height: 485px;
+    }
+
+    .hero-content {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+}
