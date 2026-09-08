@@ -783,7 +783,7 @@ a {
    FINAL DESKTOP VIEWPORT TUNING
    ========================================================= */
 
-@media (min-width: 1200px) {
+@media (min-width: 800px) {
 
     .hero {
         min-height: 485px;
